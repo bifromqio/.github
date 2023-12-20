@@ -1,0 +1,2 @@
+## Welcome to BifroMQ
+BifroMQ is a high-performance MQTT messaging middleware open-sourced by Baidu. Our goal is to provide an efficient, stable, and scalable MQTT service platform. BifroMQ supports a native multi-tenant architecture, making it suitable for a wide range of applications including IoT, messaging, and real-time data processing. For more information, please visit our [official website](https://bifromq.io).
